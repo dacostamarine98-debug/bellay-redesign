@@ -21,3 +21,16 @@ a {
   gap: 24px;
   flex-wrap: wrap;
 }
+.logo {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+.logo strong {
+  font-size: 26px;
+  letter-spacing: 2px;
+}
+.logo span {
+  font-size: 11px;
+  color: #dfe9d5;
+}
