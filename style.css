@@ -37,9 +37,11 @@ a {
   gap: 4px;
 }
 
-.logo strong {
-  font-size: 26px;
-  letter-spacing: 2px;
+.logo-image {
+  display: block;
+  width: 160px;
+  max-width: 100%;
+  height: auto;
 }
 
 .logo span {
