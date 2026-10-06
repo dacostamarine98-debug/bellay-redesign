@@ -63,3 +63,14 @@ a {
   font-size: 14px;
   font-weight: 500;
 }
+
+/* Bouton de demande de devis */
+
+.header-button {
+  display: inline-block;
+  padding: 14px 22px;
+  border: 1px solid white;
+  border-radius: 30px;
+  font-size: 14px;
+  font-weight: 600
+}
